@@ -7,8 +7,7 @@ Estou em transição de carreira da área administrativa para o **Desenvolviment
 - 📚 Atualmente estudando HTML5 e CSS3 (Curso em Vídeo - Guanabara).
 - 📍 Localizada em Batatais, SP.
 
-## 🛠️ Tecnologias e Ferramentas
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/html)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-html)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-css)
 
 ### 📬 Vamos nos conectar?
