@@ -28,8 +28,8 @@ Concluído com foco em semântica, listas, links e multimídia.
 ---
 
 ## 📝 Checkpoint de Aprendizado (Módulo 2)
-- [ ] Dominar o uso de cores (Hexadecimal, RGB, HSL).
-- [ ] Configurar fontes personalizadas e seguras para web.
+- [✅] Dominar o uso de cores (Hexadecimal, RGB, HSL).
+- [✅] Configurar fontes personalizadas e seguras para web.
 - [ ] Entender a diferença crucial entre `id` e `class`.
 - [ ] Dominar o **Box Model** (Padding, Border, Margin).
 - [ ] Criar o projeto final do módulo com responsividade.
