@@ -7,7 +7,7 @@ Repositório dedicado ao armazenamento de todos os exercícios e desafios realiz
 ---
 ## 🛠️ Tecnologias e Ferramentas
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-html5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios/exercicios-css)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-css)
 ![Meu Tempo de Código](https://wakatime.com/share/@49293354-0a18-46f3-aafb-645ccb84349c/852824a7-8e9a-4532-9f6e-a62776f1c634.svg)
 ---
 
