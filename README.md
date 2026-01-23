@@ -8,7 +8,11 @@ Repositório dedicado ao armazenamento de todos os exercícios e desafios realiz
 ## 🛠️ Tecnologias e Ferramentas
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-html5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MihCarvalho82/curso-html5-css3/tree/main/exercicios-css)
-![Meu Tempo de Código](https://wakatime.com/share/@49293354-0a18-46f3-aafb-645ccb84349c/852824a7-8e9a-4532-9f6e-a62776f1c634.svg)
+### 📊 Minhas Estatísticas (WakaTime)
+
+![Estatísticas da Mih](https://wakatime.com/share/@49293354-0a18-46f3-aafb-645ccb84349c/852824a7-8e9a-4532-9f6e-a62776f1c634.svg)
+
+![Status](https://wakatime.com/badge/user/49293354-0a18-46f3-aafb-645ccb84349c/stats.svg)
 ---
 
 ## 📂 Progresso do Curso
@@ -37,4 +41,4 @@ Concluído com foco em semântica, listas, links e multimídia.
 **Mih Carvalho**
 *Focada em transformar linhas de código em experiências visuais incríveis.*
 
-<figure><embed src="https://wakatime.com/share/@49293354-0a18-46f3-aafb-645ccb84349c/65b4cc4e-da07-4c6c-bafc-e9b660e90742.svg"></embed></figure>
+
