@@ -37,3 +37,4 @@ Concluído com foco em semântica, listas, links e multimídia.
 **Mih Carvalho**
 *Focada em transformar linhas de código em experiências visuais incríveis.*
 
+<figure><embed src="https://wakatime.com/share/@49293354-0a18-46f3-aafb-645ccb84349c/65b4cc4e-da07-4c6c-bafc-e9b660e90742.svg"></embed></figure>
