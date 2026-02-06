@@ -9,24 +9,18 @@ Hi there! I'm **Michelle Carvalho**. I'm currently diving into the Web Developme
 # 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 System Stats
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MihCarvalho82&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=MihCarvalho82&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MihCarvalho82&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihCarvalho82&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihCarvalho82&theme=radical&layout=compact)
 
-### 📈 Connectivity & Trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MihCarvalho82&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://nirzak-streak-stats.vercel.app/?user=MihCarvalho82&theme=tokyonight)
-
-![](https://github-profile-trophy.vercel.app/?username=MihCarvalho82&theme=tokyonight)
-
----
-
-### 🌐 Social Grid
-[LinkedIn](https://www.linkedin.com/in/michelle-carvalho-603b82183/) | **Mih Carvalho**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MihCarvalho82&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MihCarvalho82&icon=5&color=0" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=MihCarvalho82&icon=5&color=0)](https://visitcount.itsvg.in)
