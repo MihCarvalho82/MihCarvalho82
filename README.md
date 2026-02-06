@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌀 About Me:
 Olá! Eu sou a Michelle Carvalho. Atualmente, estou mergulhando no mundo do Desenvolvimento Web através do curso de HTML5 e CSS3 do Curso em Vídeo. Adoro o desafio de transformar linhas de código em interfaces bonitas e funcionais. No momento, estou focada em dominar Git, GitHub e as melhores práticas de estilização.<br><br>Hi there! I'm Michelle Carvalho. I'm currently diving into the Web Development world through the HTML5 and CSS3 course at Curso em Vídeo. I love the challenge of turning lines of code into beautiful and functional interfaces. Right now, I'm focused on mastering Git, GitHub, and styling best practices.
 
 
@@ -18,3 +18,5 @@ Olá! Eu sou a Michelle Carvalho. Atualmente, estou mergulhando no mundo do Dese
 ---
 [![](https://visitcount.itsvg.in/api?id=MihCarvalho82&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🌐 Social Grid
+[LinkedIn](https://www.linkedin.com/in/michelle-carvalho-603b82183/) | **Mih Carvalho**
