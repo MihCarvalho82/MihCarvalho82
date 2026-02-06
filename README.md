@@ -1,4 +1,4 @@
-# 🔮 About Me | Sobre Mim
+# 🌀 About Me | Sobre Mim
 
 Olá! Eu sou a **Michelle Carvalho**. Atualmente, estou mergulhando no mundo do Desenvolvimento Web através do curso de HTML5 e CSS3 do Curso em Vídeo. Adoro o desafio de transformar linhas de código em interfaces bonitas e funcionais. No momento, estou focada em dominar Git, GitHub e as melhores práticas de estilização.
 
