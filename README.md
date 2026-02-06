@@ -1,4 +1,4 @@
-# 🌀 About Me | Sobre Mim
+# 🔮 About Me | Sobre Mim
 
 Olá! Eu sou a **Michelle Carvalho**. Atualmente, estou mergulhando no mundo do Desenvolvimento Web através do curso de HTML5 e CSS3 do Curso em Vídeo. Adoro o desafio de transformar linhas de código em interfaces bonitas e funcionais. No momento, estou focada em dominar Git, GitHub e as melhores práticas de estilização.
 
@@ -11,13 +11,15 @@ Hi there! I'm **Michelle Carvalho**. I'm currently diving into the Web Developme
 
 # 📊 System Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MihCarvalho82&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+![](https://github-readme-stats.vercel.app/api?username=MihCarvalho82&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihCarvalho82&theme=tokyonight&layout=compact" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihCarvalho82&theme=tokyonight&layout=compact)
 
 ### 📈 Connectivity & Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=MihCarvalho82&theme=tokyonight" />
+![](https://nirzak-streak-stats.vercel.app/?user=MihCarvalho82&theme=tokyonight)
+
+![](https://github-profile-trophy.vercel.app/?username=MihCarvalho82&theme=tokyonight)
 
 ---
 
